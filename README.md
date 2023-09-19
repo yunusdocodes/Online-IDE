@@ -1,4 +1,4 @@
-# NanoDe
+# Online IDE
 
 Tiny and Minimal Code Editor supports multiple languages
 
