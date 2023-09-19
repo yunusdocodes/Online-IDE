@@ -71,19 +71,3 @@ The challenge was to develop a minimal code editor with multiple language suppor
 - User profile module to show the user's profile and their code snippets.
 - Customized dashboard for each user.
 
-### Useful resources
-
-#### References
-
-- [Monaco Editor](https://microsoft.github.io/monaco-editor/) - This is the official documentation of Monaco Editor. It has a lot of examples and API documentation.
-- [Judge0](https://judge0.com/) - This is the official documentation of Judge0 API. It has a lot of examples and API documentation.
-- [Monaco React](https://github.com/moeen-mahmud/NanoDe-Online-IDE) - This is the official documentation of Monaco React. It has a lot of examples and API documentation.
-
-### Author
-
-- [GitHub](https://github.com/moeen-mahmud)
-- [Portfolio](https://moeenwho.works/)
-- [LinkedIn](https://www.linkedin.com/in/moeen-mahmud/)
-- [Twiiter](https://twitter.com/moeen_mahmud)
-
-Made with ❤️ by Moeen Mahmud
